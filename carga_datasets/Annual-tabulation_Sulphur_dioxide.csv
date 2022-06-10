@@ -1,0 +1,707 @@
+State_Measuring_network,Station_code,Station_name,Station_setting,Station_type,Annual_mean_value_in_mg_m3,Number_of_days_with_daily_mean_values_above_125_µg_m,Number_of_hourly_mean_values_above_350_µg_m3,Year
+Baden-Württemberg,DEBW004,Eggenstein,rural near town,background,1.3,0,0,2020
+Baden-Württemberg,DEBW029,Aalen,suburban area,background,1.1,0,0,2020
+Baden-Württemberg,DEBW031,Schwarzwald-Süd,rural regional,background,0.33,0,0,2020
+Baden-Württemberg,DEBW005,Mannheim-Nord,suburban area,industry,3.1,0,0,2020
+Brandenburg,DEBB021,Potsdam-Zentrum,urban area,background,1.5,0,0,2020
+Brandenburg,DEBB064,Cottbus,urban area,background,1.6,0,0,2020
+Brandenburg,DEBB066,Spreewald,rural regional,background,1.5,0,1,2020
+Brandenburg,DEBB029,Schwedt (Oder),suburban area,industry,1.8,0,0,2020
+Brandenburg,DEBB032,Eisenhüttenstadt,suburban area,industry,1.9,0,0,2020
+Bremen,DEHB001,Bremen-Mitte,urban area,background,0.79,0,0,2020
+Bremen,DEHB002,Bremen-Ost,urban area,background,1.1,0,0,2020
+Bremen,DEHB004,Bremen-Nord,urban area,background,0.92,0,0,2020
+Bremen,DEHB005,Bremerhaven-Hansastraße,urban area,background,1.2,0,0,2020
+Bremen,DEHB012,Bremen-Oslebshausen,urban area,background,1.7,0,0,2020
+Bremen,DEHB013,Bremen-Hasenbüren,rural regional,industry,1.4,0,0,2020
+Hamburg,DEHH008,Hamburg Sternschanze,urban area,background,3.1,0,0,2020
+Hamburg,DEHH059,Hamburg Wilhelmsburg,urban area,background,3.2,0,0,2020
+Hamburg,DEHH079,Hamburg Altona Elbhang,urban area,background,3.4,0,0,2020
+Hamburg,DEHH081,Hamburg Hafen,urban area,background,4.1,0,0,2020
+Hamburg,DEHH015,Hamburg Veddel,urban area,industry,5.6,0,0,2020
+Hamburg,DEHH016,Hamburg Billbrook,urban area,industry,4,0,0,2020
+Hesse,DEHE001,Darmstadt,urban area,background,0.85,0,0,2020
+Hesse,DEHE005,Frankfurt-Höchst,urban area,background,1.3,0,0,2020
+Hesse,DEHE011,Hanau,urban area,background,0.85,0,0,2020
+Hesse,DEHE013,Kassel Mitte,urban area,background,0.87,0,0,2020
+Hesse,DEHE018,Raunheim,urban area,background,0.88,0,0,2020
+Hesse,DEHE020,Wetzlar,urban area,background,0.92,0,0,2020
+Hesse,DEHE022,Wiesbaden Süd,urban area,background,0.9,0,0,2020
+Hesse,DEHE042,Linden/Leihgestern,rural area,background,1.1,0,0,2020
+Hesse,DEHE045,Michelstadt,urban area,background,0.94,0,0,2020
+Hesse,DEHE051,Wasserkuppe,rural area,background,0.82,0,0,2020
+Hesse,DEHE060,Kellerwald,rural regional,background,0.84,0,0,2020
+Mecklenburg-West Pomerania,DEMV004,Gülzow,rural area,background,0.89,0,0,2020
+Mecklenburg-West Pomerania,DEMV007,Rostock-Stuthof,suburban area,background,0.94,0,0,2020
+Mecklenburg-West Pomerania,DEMV012,Löcknitz,rural area,background,1,0,0,2020
+Mecklenburg-West Pomerania,DEMV019,Güstrow,urban area,background,0.93,0,0,2020
+Mecklenburg-West Pomerania,DEMV021,Rostock-Warnemünde,urban area,background,0.77,0,0,2020
+Mecklenburg-West Pomerania,DEMV031,Rostock-Hohe Düne,urban area,industry,1.2,0,0,2020
+Mecklenburg-West Pomerania,DEMV022,Rostock-Holbeinplatz,urban area,traffic,1.4,0,0,2020
+Mecklenburg-West Pomerania,DEMV025,Stralsund-Knieperdamm,urban area,traffic,0.94,0,0,2020
+Mecklenburg-West Pomerania,DEMV058,Neubrandenburg Woldegker Straße,urban area,traffic,1,0,0,2020
+North Rhine-Westphalia,DENW002,Datteln-Hagem,suburban area,background,1.7,0,0,2020
+North Rhine-Westphalia,DENW024,Essen-Vogelheim,urban area,background,3.8,0,0,2020
+North Rhine-Westphalia,DENW040,Duisburg-Buchholz,suburban area,background,3.1,0,0,2020
+North Rhine-Westphalia,DENW021,Bottrop-Welheim,urban area,industry,6.8,0,0,2020
+North Rhine-Westphalia,DENW034,Duisburg-Walsum,urban area,industry,8.7,0,0,2020
+North Rhine-Westphalia,DENW338,Duisburg-Bruckhausen,urban area,industry,8.9,0,2,2020
+Rhineland-Palatinate,DERP001,Ludwigshafen-Oppau,urban area,background,1.3,0,0,2020
+Rhineland-Palatinate,DERP007,Mainz-Mombach,urban area,background,1.1,0,0,2020
+Rhineland-Palatinate,DERP009,Mainz-Zitadelle,urban area,background,1.1,0,0,2020
+Rhineland-Palatinate,DERP013,Westpfalz-Waldmohr,rural area,background,1.1,0,0,2020
+Rhineland-Palatinate,DERP014,Hunsrück-Leisel,rural area,background,1,0,0,2020
+Rhineland-Palatinate,DERP015,Westeifel Wascheid,rural area,background,1.1,0,0,2020
+Rhineland-Palatinate,DERP016,Westerwald-Herdorf,rural area,background,1,0,0,2020
+Rhineland-Palatinate,DERP017,Pfälzerwald-Hortenkopf,rural area,background,1.1,0,0,2020
+Rhineland-Palatinate,DERP019,Kaiserslautern-Rathausplatz,urban area,background,1.2,0,0,2020
+Rhineland-Palatinate,DERP021,Neuwied-Hafenstraße,urban area,background,1,0,0,2020
+Rhineland-Palatinate,DERP022,Bad Kreuznach-Bosenheimer Straße,urban area,background,1,0,0,2020
+Rhineland-Palatinate,DERP025,Wörth-Marktplatz,urban area,background,1.2,0,0,2020
+Rhineland-Palatinate,DERP003,Ludwigshafen-Mundenheim,urban area,industry,1.3,0,0,2020
+Rhineland-Palatinate,DERP020,Trier-Ostallee,urban area,traffic,1,0,0,2020
+Rhineland-Palatinate,DERP023,Worms-Hagenstraße,urban area,traffic,1.7,0,0,2020
+Rhineland-Palatinate,DERP024,Koblenz-Friedrich-Ebert-Ring,urban area,traffic,1.1,0,0,2020
+Saarland,DESL001,Berus,rural area,background,2.7,0,0,2020
+Saarland,DESL002,Bexbach Schule,suburban area,background,2.1,0,0,2020
+Saarland,DESL006,Lauterbach,suburban area,background,2,0,0,2020
+Saarland,DESL012,Saarbrücken-City,urban area,background,1.8,0,0,2020
+Saarland,DESL017,Völklingen-City Stadionstr.,urban area,background,2.3,0,0,2020
+Saarland,DESL019,Biringen,rural regional,background,1.9,0,0,2020
+Saarland,DESL003,Dillingen City,urban area,industry,5.6,0,0,2020
+Saxony,DESN001,Annaberg-Buchholz,urban area,background,1.4,0,0,2020
+Saxony,DESN024,Klingenthal,urban area,background,0.76,0,0,2020
+Saxony,DESN045,Zittau-Ost,suburban area,background,1.8,0,0,2020
+Saxony,DESN052,Zinnwald,rural regional,background,3.4,0,1,2020
+Saxony,DESN053,Fichtelberg,rural secluded,background,1.1,0,0,2020
+Saxony,DESN074,Schwartenberg,rural regional,background,2.6,0,1,2020
+Saxony,DESN092,Dresden-Winckelmannstr.,urban area,background,2.1,0,0,2020
+Saxony,DESN020,Görlitz,urban area,traffic,1.5,0,0,2020
+Saxony,DESN025,Leipzig-Mitte,urban area,traffic,1.8,0,0,2020
+Saxony-Anhalt,DEST011,Wernigerode/Bahnhof,urban area,background,1.5,0,0,2020
+Saxony-Anhalt,DEST028,Zeitz,urban area,background,1.7,0,0,2020
+Saxony-Anhalt,DEST039,Brocken,rural secluded,background,1.1,0,0,2020
+Saxony-Anhalt,DEST077,Magdeburg/West,urban area,background,0.99,0,0,2020
+Saxony-Anhalt,DEST089,Zartau/Waldstation,rural regional,background,0.84,0,0,2020
+Saxony-Anhalt,DEST098,Unterharz / Friedrichsbrunn,rural regional,background,0.94,0,0,2020
+Saxony-Anhalt,DEST015,Bitterfeld/Wolfen,suburban area,industry,2.2,0,0,2020
+Saxony-Anhalt,DEST090,Leuna,suburban area,industry,2.8,0,0,2020
+Saxony-Anhalt,DEST133,Halle/Riebeckplatz,urban area,traffic,1.3,0,0,2020
+Schleswig-Holstein,DESH035,Brunsbüttel-Cuxhavener Straße,urban area,background,0.87,0,0,2020
+Thuringia,DETH009,Gera Friedericistr.,urban area,background,0.94,0,0,2020
+Thuringia,DETH020,Erfurt Krämpferstr.,urban area,background,0.87,0,0,2020
+Thuringia,DETH027,Neuhaus,rural secluded,background,0.99,0,0,2020
+Thuringia,DETH042,Possen,rural secluded,background,0.89,0,0,2020
+Thuringia,DETH061,Hummelshain,rural secluded,background,0.96,0,0,2020
+UBA,DEUB001,Westerland,rural area,background,0.4,0,0,2020
+UBA,DEUB004,Schauinsland,rural regional,background,0.32,0,0,2020
+UBA,DEUB005,Waldhof,rural area,background,0.7,0,0,2020
+UBA,DEUB028,Zingst,rural area,background,0.71,0,0,2020
+UBA,DEUB029,Schmücke,rural area,background,0.66,0,0,2020
+UBA,DEUB030,Neuglobsow,rural regional,background,0.89,0,0,2020
+Baden-Württemberg,DEBW004,Eggenstein,rural near town,background,2.4,0,0,2016
+Baden-Württemberg,DEBW013,Stuttgart-Bad Cannstatt,urban area,background,2,0,0,2016
+Baden-Württemberg,DEBW019,Ulm,urban area,background,1.4,0,0,2016
+Baden-Württemberg,DEBW029,Aalen,suburban area,background,1.2,0,0,2016
+Baden-Württemberg,DEBW031,Schwarzwald-Süd,rural regional,background,0.27,0,0,2016
+Baden-Württemberg,DEBW081,Karlsruhe-Nordwest,urban area,background,1.6,0,0,2016
+Baden-Württemberg,DEBW084,Freiburg,urban area,background,1.1,0,0,2016
+Baden-Württemberg,DEBW087,Schwäbische Alb,rural regional,background,0.6,0,0,2016
+Baden-Württemberg,DEBW005,Mannheim-Nord,suburban area,industry,3.8,0,0,2016
+Baden-Württemberg,DEBW022,Kehl,suburban area,industry,2.6,0,0,2016
+Bavaria,DEBY002,Arzberg/Egerstraße,suburban area,background,2.6,0,0,2016
+Bavaria,DEBY004,Kleinwallstadt/Hofstetter Straße,suburban area,background,3.5,0,0,2016
+Bavaria,DEBY013,Mehring/Sportplatz,rural regional,background,2.4,0,0,2016
+Bavaria,DEBY020,Hof/LfU,suburban area,background,2.1,0,0,2016
+Bavaria,DEBY026,Vohburg a.d. Donau/Alter Wöhrer Weg,suburban area,background,2.9,0,0,2016
+Bavaria,DEBY099,Augsburg/LfU,suburban area,background,2.3,0,0,2016
+Bavaria,DEBY001,Ansbach/Residenzstraße,urban area,traffic,4.3,0,0,2016
+Bavaria,DEBY006,Augsburg/Königsplatz,urban area,traffic,2.5,0,0,2016
+Bavaria,DEBY021,Ingolstadt/Rechbergstraße,urban area,traffic,3.6,0,0,2016
+Bavaria,DEBY028,Kelheim/Regensburger Straße,urban area,traffic,3.8,0,0,2016
+Bavaria,DEBY037,München/Stachus,urban area,traffic,2.3,0,0,2016
+Bavaria,DEBY053,Nürnberg/Bahnhof,urban area,traffic,2.3,0,0,2016
+Bavaria,DEBY063,Regensburg/Rathaus,urban area,traffic,2.5,0,0,2016
+Berlin,DEBE066,Berlin Karlshorst,urban area,background,1.3,0,0,2016
+Berlin,DEBE065,Berlin Frankfurter Allee,urban area,traffic,2.1,0,0,2016
+Brandenburg,DEBB021,Potsdam-Zentrum,urban area,background,1.9,0,0,2016
+Brandenburg,DEBB064,Cottbus,urban area,background,2.3,0,0,2016
+Brandenburg,DEBB066,Spreewald,rural regional,background,1.5,0,0,2016
+Brandenburg,DEBB083,Spremberg,suburban area,background,2.4,0,0,2016
+Brandenburg,DEBB092,Frankfurt (Oder),suburban area,background,1.8,0,0,2016
+Brandenburg,DEBB029,Schwedt (Oder),suburban area,industry,2.5,0,0,2016
+Brandenburg,DEBB032,Eisenhüttenstadt,suburban area,industry,2.1,0,0,2016
+Bremen,DEHB001,Bremen-Mitte,urban area,background,1.5,0,0,2016
+Bremen,DEHB002,Bremen-Ost,urban area,background,1.3,0,0,2016
+Bremen,DEHB004,Bremen-Nord,urban area,background,1.9,0,0,2016
+Bremen,DEHB005,Bremerhaven-Hansastraße,urban area,background,1.8,0,0,2016
+Bremen,DEHB012,Bremen-Oslebshausen,urban area,background,1.7,0,0,2016
+Bremen,DEHB013,Bremen-Hasenbüren,rural regional,industry,1.3,0,0,2016
+Hamburg,DEHH008,Hamburg Sternschanze,urban area,background,3.7,0,0,2016
+Hamburg,DEHH059,Hamburg Wilhelmsburg,urban area,background,3.6,0,0,2016
+Hamburg,DEHH079,Hamburg Altona Elbhang,urban area,background,4.3,0,0,2016
+Hamburg,DEHH081,Hamburg Hafen,urban area,background,5.4,0,0,2016
+Hamburg,DEHH015,Hamburg Veddel,urban area,industry,6.1,0,0,2016
+Hamburg,DEHH016,Hamburg Billbrook,urban area,industry,4,0,0,2016
+Hesse,DEHE001,Darmstadt,urban area,background,0.98,0,0,2016
+Hesse,DEHE005,Frankfurt-Höchst,urban area,background,1.6,0,0,2016
+Hesse,DEHE011,Hanau,urban area,background,0.99,0,0,2016
+Hesse,DEHE013,Kassel Mitte,urban area,background,0.87,0,0,2016
+Hesse,DEHE018,Raunheim,urban area,background,1.1,0,0,2016
+Hesse,DEHE020,Wetzlar,urban area,background,0.97,0,0,2016
+Hesse,DEHE022,Wiesbaden Süd,urban area,background,1,0,0,2016
+Hesse,DEHE042,Linden/Leihgestern,rural area,background,0.88,0,0,2016
+Hesse,DEHE045,Michelstadt,urban area,background,0.9,0,0,2016
+Hesse,DEHE051,Wasserkuppe,rural area,background,0.89,0,0,2016
+Hesse,DEHE060,Kellerwald,rural regional,background,0.85,0,0,2016
+Mecklenburg-West Pomerania,DEMV004,Gülzow,rural area,background,1.2,0,0,2016
+Mecklenburg-West Pomerania,DEMV007,Rostock-Stuthof,suburban area,background,1.2,0,0,2016
+Mecklenburg-West Pomerania,DEMV012,Löcknitz,rural area,background,1.3,0,0,2016
+Mecklenburg-West Pomerania,DEMV019,Güstrow,urban area,background,1.3,0,0,2016
+Mecklenburg-West Pomerania,DEMV021,Rostock-Warnemünde,urban area,background,0.99,0,0,2016
+Mecklenburg-West Pomerania,DEMV026,Garz,rural area,background,0.79,0,0,2016
+Mecklenburg-West Pomerania,DEMV031,Rostock-Hohe Düne,urban area,industry,1.6,0,0,2016
+Mecklenburg-West Pomerania,DEMV022,Rostock-Holbeinplatz,urban area,traffic,1.8,0,0,2016
+Lower Saxony,DENI020,Wolfsburg,suburban area,background,1.1,0,0,2016
+Lower Saxony,DENI038,Osnabrück,urban area,background,0.85,0,0,2016
+Lower Saxony,DENI042,Göttingen,suburban area,background,0.46,0,0,2016
+Lower Saxony,DENI043,Emsland,suburban area,background,0.72,0,0,2016
+Lower Saxony,DENI051,Wurmberg,rural area,background,0.54,0,0,2016
+Lower Saxony,DENI058,Ostfries. Inseln,rural area,background,0.43,0,0,2016
+Lower Saxony,DENI070,Salzgitter-Drütte,rural area,industry,2,0,0,2016
+North Rhine-Westphalia,DENW002,Datteln-Hagem,suburban area,background,2.4,0,0,2016
+North Rhine-Westphalia,DENW024,Essen-Vogelheim,urban area,background,4.5,0,0,2016
+North Rhine-Westphalia,DENW040,Duisburg-Buchholz,suburban area,background,3.2,0,0,2016
+North Rhine-Westphalia,DENW059,Köln-Rodenkirchen,suburban area,background,1.2,0,0,2016
+North Rhine-Westphalia,DENW066,Nettetal-Kaldenkirchen,rural near town,background,1.3,0,0,2016
+North Rhine-Westphalia,DENW081,Borken-Gemen,rural near town,background,1.4,0,0,2016
+North Rhine-Westphalia,DENW021,Bottrop-Welheim,urban area,industry,9.7,0,1,2016
+North Rhine-Westphalia,DENW034,Duisburg-Walsum,urban area,industry,5.7,0,0,2016
+North Rhine-Westphalia,DENW338,Duisburg-Bruckhausen,urban area,industry,7.6,0,0,2016
+Rhineland-Palatinate,DERP001,Ludwigshafen-Oppau,urban area,background,1.4,0,0,2016
+Rhineland-Palatinate,DERP007,Mainz-Mombach,urban area,background,1.2,0,0,2016
+Rhineland-Palatinate,DERP009,Mainz-Zitadelle,urban area,background,1.2,0,0,2016
+Rhineland-Palatinate,DERP013,Westpfalz-Waldmohr,rural area,background,1.2,0,0,2016
+Rhineland-Palatinate,DERP014,Hunsrück-Leisel,rural area,background,1.1,0,0,2016
+Rhineland-Palatinate,DERP015,Westeifel Wascheid,rural area,background,1.1,0,0,2016
+Rhineland-Palatinate,DERP016,Westerwald-Herdorf,rural area,background,1.1,0,0,2016
+Rhineland-Palatinate,DERP017,Pfälzerwald-Hortenkopf,rural area,background,1.2,0,0,2016
+Rhineland-Palatinate,DERP019,Kaiserslautern-Rathausplatz,urban area,background,1.5,0,0,2016
+Rhineland-Palatinate,DERP021,Neuwied-Hafenstraße,urban area,background,1.2,0,0,2016
+Rhineland-Palatinate,DERP022,Bad Kreuznach-Bosenheimer Straße,urban area,background,1.3,0,0,2016
+Rhineland-Palatinate,DERP025,Wörth-Marktplatz,urban area,background,1.3,0,0,2016
+Rhineland-Palatinate,DERP003,Ludwigshafen-Mundenheim,urban area,industry,1.6,0,0,2016
+Rhineland-Palatinate,DERP020,Trier-Ostallee,urban area,traffic,1.2,0,0,2016
+Rhineland-Palatinate,DERP023,Worms-Hagenstraße,urban area,traffic,2.3,0,0,2016
+Rhineland-Palatinate,DERP024,Koblenz-Friedrich-Ebert-Ring,urban area,traffic,1.5,0,0,2016
+Saarland,DESL001,Berus,rural area,background,2.5,0,0,2016
+Saarland,DESL002,Bexbach Schule,suburban area,background,2.3,0,0,2016
+Saarland,DESL006,Lauterbach,suburban area,background,2.5,0,0,2016
+Saarland,DESL010,Saarbrücken-Burbach,urban area,background,2.3,0,0,2016
+Saarland,DESL012,Saarbrücken-City,urban area,background,2.3,0,0,2016
+Saarland,DESL017,Völklingen-City Stadionstr.,urban area,background,2.3,0,0,2016
+Saarland,DESL019,Biringen,rural regional,background,2.4,0,0,2016
+Saarland,DESL003,Dillingen City,urban area,industry,5.8,0,0,2016
+Saxony,DESN024,Klingenthal,urban area,background,1.5,0,0,2016
+Saxony,DESN045,Zittau-Ost,suburban area,background,2.3,0,0,2016
+Saxony,DESN052,Zinnwald,rural regional,background,4.1,0,0,2016
+Saxony,DESN053,Fichtelberg,rural secluded,background,2,0,1,2016
+Saxony,DESN074,Schwartenberg,rural regional,background,5.8,0,0,2016
+Saxony,DESN092,Dresden-Winckelmannstr.,urban area,background,2.8,0,0,2016
+Saxony,DESN020,Görlitz,urban area,traffic,3.3,0,0,2016
+Saxony,DESN025,Leipzig-Mitte,urban area,traffic,2.2,0,0,2016
+Saxony-Anhalt,DEST011,Wernigerode/Bahnhof,urban area,background,2.8,0,0,2016
+Saxony-Anhalt,DEST028,Zeitz,urban area,background,2.3,0,0,2016
+Saxony-Anhalt,DEST039,Brocken,rural secluded,background,1.5,0,0,2016
+Saxony-Anhalt,DEST077,Magdeburg/West,urban area,background,1.4,0,0,2016
+Saxony-Anhalt,DEST089,Zartau/Waldstation,rural regional,background,0.93,0,0,2016
+Saxony-Anhalt,DEST098,Unterharz / Friedrichsbrunn,rural regional,background,1.3,0,0,2016
+Saxony-Anhalt,DEST104,Domäne Bobbe,rural area,background,1.5,0,0,2016
+Saxony-Anhalt,DEST015,Bitterfeld/Wolfen,suburban area,industry,1.9,0,0,2016
+Saxony-Anhalt,DEST090,Leuna,suburban area,industry,2.9,0,0,2016
+Saxony-Anhalt,DEST075,Halle/Merseburger Strasse,urban area,traffic,2,0,0,2016
+Saxony-Anhalt,DEST108,Weißenfels/Am Krug,urban area,traffic,1.3,0,0,2016
+Schleswig-Holstein,DESH008,Bornhöved,rural regional,background,1.1,,,2016
+Schleswig-Holstein,DESH035,Brunsbüttel-Cuxhavener Straße,urban area,background,1.3,0,0,2016
+Thuringia,DETH009,Gera Friedericistr.,urban area,background,1.2,0,0,2016
+Thuringia,DETH020,Erfurt Krämpferstr.,urban area,background,1.1,0,0,2016
+Thuringia,DETH027,Neuhaus,rural secluded,background,1.1,0,0,2016
+Thuringia,DETH042,Possen,rural secluded,background,1.1,0,0,2016
+Thuringia,DETH061,Hummelshain,rural secluded,background,0.99,0,0,2016
+UBA,DEUB001,Westerland,rural area,background,0.32,0,0,2016
+UBA,DEUB004,Schauinsland,rural regional,background,0.49,0,0,2016
+UBA,DEUB005,Waldhof,rural area,background,0.72,0,0,2016
+UBA,DEUB028,Zingst,rural area,background,0.58,0,0,2016
+UBA,DEUB029,Schmücke,rural area,background,0.68,0,0,2016
+UBA,DEUB030,Neuglobsow,rural regional,background,0.92,0,0,2016
+UBA,DEUB046,Forellenbach,rural secluded,background,1.3,0,0,2016
+Baden-Württemberg,DEBW004,Eggenstein,rural near town,background,2.1,0,0,2017
+Baden-Württemberg,DEBW029,Aalen,suburban area,background,1,0,0,2017
+Baden-Württemberg,DEBW031,Schwarzwald-Süd,rural regional,background,0.57,0,0,2017
+Baden-Württemberg,DEBW005,Mannheim-Nord,suburban area,industry,3.7,0,0,2017
+Bavaria,DEBY002,Arzberg/Egerstraße,suburban area,background,3,0,0,2017
+Bavaria,DEBY004,Kleinwallstadt/Hofstetter Straße,suburban area,background,4.1,0,0,2017
+Bavaria,DEBY013,Mehring/Sportplatz,rural regional,background,2.4,0,0,2017
+Bavaria,DEBY020,Hof/LfU,suburban area,background,2.7,0,0,2017
+Bavaria,DEBY001,Ansbach/Residenzstraße,urban area,traffic,5.9,0,0,2017
+Bavaria,DEBY006,Augsburg/Königsplatz,urban area,traffic,2.4,0,0,2017
+Bavaria,DEBY021,Ingolstadt/Rechbergstraße,urban area,traffic,4.5,0,0,2017
+Bavaria,DEBY028,Kelheim/Regensburger Straße,urban area,traffic,2.9,0,0,2017
+Bavaria,DEBY037,München/Stachus,urban area,traffic,1.8,0,0,2017
+Bavaria,DEBY053,Nürnberg/Bahnhof,urban area,traffic,3,0,0,2017
+Berlin,DEBE066,Berlin Karlshorst,urban area,background,1.3,0,0,2017
+Berlin,DEBE065,Berlin Frankfurter Allee,urban area,traffic,1.9,0,1,2017
+Brandenburg,DEBB021,Potsdam-Zentrum,urban area,background,1.6,0,0,2017
+Brandenburg,DEBB064,Cottbus,urban area,background,1.9,0,0,2017
+Brandenburg,DEBB066,Spreewald,rural regional,background,2,0,0,2017
+Brandenburg,DEBB029,Schwedt (Oder),suburban area,industry,1.9,0,0,2017
+Brandenburg,DEBB032,Eisenhüttenstadt,suburban area,industry,2.2,0,0,2017
+Bremen,DEHB001,Bremen-Mitte,urban area,background,1.2,0,0,2017
+Bremen,DEHB002,Bremen-Ost,urban area,background,1.4,0,0,2017
+Bremen,DEHB004,Bremen-Nord,urban area,background,1.6,0,0,2017
+Bremen,DEHB005,Bremerhaven-Hansastraße,urban area,background,1.7,0,0,2017
+Bremen,DEHB012,Bremen-Oslebshausen,urban area,background,1.6,0,0,2017
+Bremen,DEHB013,Bremen-Hasenbüren,rural regional,industry,1.3,0,0,2017
+Hamburg,DEHH008,Hamburg Sternschanze,urban area,background,3.5,0,0,2017
+Hamburg,DEHH059,Hamburg Wilhelmsburg,urban area,background,3.6,0,0,2017
+Hamburg,DEHH079,Hamburg Altona Elbhang,urban area,background,3.9,0,0,2017
+Hamburg,DEHH081,Hamburg Hafen,urban area,background,5,0,0,2017
+Hamburg,DEHH015,Hamburg Veddel,urban area,industry,6.1,0,0,2017
+Hamburg,DEHH016,Hamburg Billbrook,urban area,industry,4.4,0,0,2017
+Hesse,DEHE001,Darmstadt,urban area,background,0.99,0,0,2017
+Hesse,DEHE005,Frankfurt-Höchst,urban area,background,1.8,0,0,2017
+Hesse,DEHE011,Hanau,urban area,background,1.1,0,0,2017
+Hesse,DEHE013,Kassel Mitte,urban area,background,0.88,0,0,2017
+Hesse,DEHE018,Raunheim,urban area,background,1.2,0,0,2017
+Hesse,DEHE020,Wetzlar,urban area,background,1.1,0,0,2017
+Hesse,DEHE022,Wiesbaden Süd,urban area,background,0.88,0,0,2017
+Hesse,DEHE042,Linden/Leihgestern,rural area,background,0.92,0,0,2017
+Hesse,DEHE045,Michelstadt,urban area,background,0.93,0,0,2017
+Hesse,DEHE051,Wasserkuppe,rural area,background,0.86,0,0,2017
+Hesse,DEHE060,Kellerwald,rural regional,background,0.9,0,0,2017
+Mecklenburg-West Pomerania,DEMV004,Gülzow,rural area,background,1.3,0,0,2017
+Mecklenburg-West Pomerania,DEMV007,Rostock-Stuthof,suburban area,background,1.3,0,0,2017
+Mecklenburg-West Pomerania,DEMV012,Löcknitz,rural area,background,1.4,0,0,2017
+Mecklenburg-West Pomerania,DEMV019,Güstrow,urban area,background,1.1,0,0,2017
+Mecklenburg-West Pomerania,DEMV021,Rostock-Warnemünde,urban area,background,1.1,0,0,2017
+Mecklenburg-West Pomerania,DEMV026,Garz,rural area,background,0.85,0,0,2017
+Mecklenburg-West Pomerania,DEMV031,Rostock-Hohe Düne,urban area,industry,1.5,0,0,2017
+Mecklenburg-West Pomerania,DEMV022,Rostock-Holbeinplatz,urban area,traffic,1.7,0,0,2017
+Lower Saxony,DENI020,Wolfsburg,suburban area,background,0.86,0,0,2017
+Lower Saxony,DENI038,Osnabrück,urban area,background,0.79,0,0,2017
+Lower Saxony,DENI042,Göttingen,suburban area,background,0.4,0,0,2017
+Lower Saxony,DENI043,Emsland,suburban area,background,0.75,0,0,2017
+Lower Saxony,DENI051,Wurmberg,rural area,background,0.39,0,0,2017
+Lower Saxony,DENI058,Ostfries. Inseln,rural area,background,0.34,0,0,2017
+Lower Saxony,DENI070,Salzgitter-Drütte,rural area,industry,2.7,0,0,2017
+North Rhine-Westphalia,DENW002,Datteln-Hagem,suburban area,background,2.3,0,0,2017
+North Rhine-Westphalia,DENW024,Essen-Vogelheim,urban area,background,4.4,0,0,2017
+North Rhine-Westphalia,DENW040,Duisburg-Buchholz,suburban area,background,3.8,0,0,2017
+North Rhine-Westphalia,DENW059,Köln-Rodenkirchen,suburban area,background,1.2,0,0,2017
+North Rhine-Westphalia,DENW066,Nettetal-Kaldenkirchen,rural near town,background,1.4,0,0,2017
+North Rhine-Westphalia,DENW081,Borken-Gemen,rural near town,background,1.4,0,0,2017
+North Rhine-Westphalia,DENW021,Bottrop-Welheim,urban area,industry,10,0,0,2017
+North Rhine-Westphalia,DENW034,Duisburg-Walsum,urban area,industry,6.5,0,0,2017
+North Rhine-Westphalia,DENW338,Duisburg-Bruckhausen,urban area,industry,8.9,0,0,2017
+Rhineland-Palatinate,DERP001,Ludwigshafen-Oppau,urban area,background,1.3,0,0,2017
+Rhineland-Palatinate,DERP007,Mainz-Mombach,urban area,background,1.2,0,0,2017
+Rhineland-Palatinate,DERP009,Mainz-Zitadelle,urban area,background,1.2,0,0,2017
+Rhineland-Palatinate,DERP013,Westpfalz-Waldmohr,rural area,background,1.4,0,0,2017
+Rhineland-Palatinate,DERP014,Hunsrück-Leisel,rural area,background,1.2,0,0,2017
+Rhineland-Palatinate,DERP015,Westeifel Wascheid,rural area,background,1.1,0,0,2017
+Rhineland-Palatinate,DERP016,Westerwald-Herdorf,rural area,background,1.1,0,0,2017
+Rhineland-Palatinate,DERP017,Pfälzerwald-Hortenkopf,rural area,background,1.2,0,0,2017
+Rhineland-Palatinate,DERP019,Kaiserslautern-Rathausplatz,urban area,background,1.4,0,0,2017
+Rhineland-Palatinate,DERP021,Neuwied-Hafenstraße,urban area,background,1.1,0,0,2017
+Rhineland-Palatinate,DERP022,Bad Kreuznach-Bosenheimer Straße,urban area,background,1.2,0,0,2017
+Rhineland-Palatinate,DERP025,Wörth-Marktplatz,urban area,background,1.3,0,0,2017
+Rhineland-Palatinate,DERP003,Ludwigshafen-Mundenheim,urban area,industry,1.5,0,0,2017
+Rhineland-Palatinate,DERP020,Trier-Ostallee,urban area,traffic,1.2,0,0,2017
+Rhineland-Palatinate,DERP023,Worms-Hagenstraße,urban area,traffic,1.9,0,0,2017
+Rhineland-Palatinate,DERP024,Koblenz-Friedrich-Ebert-Ring,urban area,traffic,1.4,0,0,2017
+Saarland,DESL001,Berus,rural area,background,2.5,0,0,2017
+Saarland,DESL002,Bexbach Schule,suburban area,background,2.4,0,0,2017
+Saarland,DESL006,Lauterbach,suburban area,background,2.5,0,0,2017
+Saarland,DESL010,Saarbrücken-Burbach,urban area,background,2.3,0,0,2017
+Saarland,DESL012,Saarbrücken-City,urban area,background,2.5,0,0,2017
+Saarland,DESL017,Völklingen-City Stadionstr.,urban area,background,2.9,0,0,2017
+Saarland,DESL019,Biringen,rural regional,background,2.4,0,0,2017
+Saarland,DESL003,Dillingen City,urban area,industry,5.4,0,0,2017
+Saxony,DESN001,Annaberg-Buchholz,urban area,background,2.3,0,0,2017
+Saxony,DESN024,Klingenthal,urban area,background,1.9,0,0,2017
+Saxony,DESN045,Zittau-Ost,suburban area,background,3,0,0,2017
+Saxony,DESN052,Zinnwald,rural regional,background,4.1,0,0,2017
+Saxony,DESN053,Fichtelberg,rural secluded,background,1.5,0,0,2017
+Saxony,DESN074,Schwartenberg,rural regional,background,5.3,0,0,2017
+Saxony,DESN092,Dresden-Winckelmannstr.,urban area,background,3.2,0,0,2017
+Saxony,DESN020,Görlitz,urban area,traffic,2.3,0,0,2017
+Saxony,DESN025,Leipzig-Mitte,urban area,traffic,2.3,0,0,2017
+Saxony-Anhalt,DEST011,Wernigerode/Bahnhof,urban area,background,2.1,0,0,2017
+Saxony-Anhalt,DEST028,Zeitz,urban area,background,1.9,0,0,2017
+Saxony-Anhalt,DEST039,Brocken,rural secluded,background,0.79,0,0,2017
+Saxony-Anhalt,DEST077,Magdeburg/West,urban area,background,1.1,0,0,2017
+Saxony-Anhalt,DEST089,Zartau/Waldstation,rural regional,background,0.85,0,0,2017
+Saxony-Anhalt,DEST098,Unterharz / Friedrichsbrunn,rural regional,background,0.73,0,0,2017
+Saxony-Anhalt,DEST015,Bitterfeld/Wolfen,suburban area,industry,1.6,0,0,2017
+Saxony-Anhalt,DEST090,Leuna,suburban area,industry,2.8,0,0,2017
+Saxony-Anhalt,DEST075,Halle/Merseburger Strasse,urban area,traffic,1.7,0,0,2017
+Saxony-Anhalt,DEST108,Weißenfels/Am Krug,urban area,traffic,1,0,0,2017
+Schleswig-Holstein,DESH008,Bornhöved,rural regional,background,0.94,,,2017
+Schleswig-Holstein,DESH035,Brunsbüttel-Cuxhavener Straße,urban area,background,1.1,0,0,2017
+Thuringia,DETH009,Gera Friedericistr.,urban area,background,1.2,0,0,2017
+Thuringia,DETH020,Erfurt Krämpferstr.,urban area,background,1,0,0,2017
+Thuringia,DETH027,Neuhaus,rural secluded,background,1.1,0,0,2017
+Thuringia,DETH042,Possen,rural secluded,background,1.1,0,0,2017
+Thuringia,DETH061,Hummelshain,rural secluded,background,1,0,0,2017
+UBA,DEUB001,Westerland,rural area,background,0.35,0,0,2017
+UBA,DEUB004,Schauinsland,rural regional,background,0.6,0,0,2017
+UBA,DEUB005,Waldhof,rural area,background,0.77,0,0,2017
+UBA,DEUB028,Zingst,rural area,background,0.79,0,0,2017
+UBA,DEUB029,Schmücke,rural area,background,0.56,0,0,2017
+UBA,DEUB030,Neuglobsow,rural regional,background,0.74,0,0,2017
+UBA,DEUB046,Forellenbach,rural secluded,background,0.76,0,0,2017
+Baden-Württemberg,DEBW004,Eggenstein,rural near town,background,1.4,,,2019
+Baden-Württemberg,DEBW029,Aalen,suburban area,background,0.92,,,2019
+Baden-Württemberg,DEBW031,Schwarzwald-Süd,rural regional,background,0.36,,,2019
+Baden-Württemberg,DEBW005,Mannheim-Nord,suburban area,industry,2.7,,,2019
+Berlin,DEBE065,Berlin Frankfurter Allee,urban area,traffic,1.2,,,2019
+Brandenburg,DEBB021,Potsdam-Zentrum,urban area,background,1.8,,,2019
+Brandenburg,DEBB064,Cottbus,urban area,background,1.4,,,2019
+Brandenburg,DEBB066,Spreewald,rural regional,background,1.6,,,2019
+Brandenburg,DEBB029,Schwedt (Oder),suburban area,industry,2.2,,,2019
+Brandenburg,DEBB032,Eisenhüttenstadt,suburban area,industry,2.1,,,2019
+Bremen,DEHB001,Bremen-Mitte,urban area,background,1.2,,,2019
+Bremen,DEHB002,Bremen-Ost,urban area,background,1.4,,,2019
+Bremen,DEHB004,Bremen-Nord,urban area,background,0.98,,,2019
+Bremen,DEHB005,Bremerhaven-Hansastraße,urban area,background,1.5,,,2019
+Bremen,DEHB012,Bremen-Oslebshausen,urban area,background,2.1,,,2019
+Bremen,DEHB013,Bremen-Hasenbüren,rural regional,industry,1.7,,,2019
+Hamburg,DEHH008,Hamburg Sternschanze,urban area,background,3.3,,,2019
+Hamburg,DEHH059,Hamburg Wilhelmsburg,urban area,background,3.2,,,2019
+Hamburg,DEHH079,Hamburg Altona Elbhang,urban area,background,3.7,,,2019
+Hamburg,DEHH081,Hamburg Hafen,urban area,background,4.3,,,2019
+Hamburg,DEHH015,Hamburg Veddel,urban area,industry,5,,,2019
+Hamburg,DEHH016,Hamburg Billbrook,urban area,industry,3.8,,,2019
+Hesse,DEHE001,Darmstadt,urban area,background,0.92,,,2019
+Hesse,DEHE005,Frankfurt-Höchst,urban area,background,1.2,,,2019
+Hesse,DEHE011,Hanau,urban area,background,0.91,,,2019
+Hesse,DEHE013,Kassel Mitte,urban area,background,0.85,,,2019
+Hesse,DEHE018,Raunheim,urban area,background,1,,,2019
+Hesse,DEHE020,Wetzlar,urban area,background,0.9,,,2019
+Hesse,DEHE022,Wiesbaden Süd,urban area,background,0.92,,,2019
+Hesse,DEHE042,Linden/Leihgestern,rural area,background,0.99,,,2019
+Hesse,DEHE045,Michelstadt,urban area,background,0.83,,,2019
+Hesse,DEHE051,Wasserkuppe,rural area,background,0.86,,,2019
+Hesse,DEHE060,Kellerwald,rural regional,background,0.85,,,2019
+Mecklenburg-West Pomerania,DEMV004,Gülzow,rural area,background,1.1,,,2019
+Mecklenburg-West Pomerania,DEMV007,Rostock-Stuthof,suburban area,background,1,,,2019
+Mecklenburg-West Pomerania,DEMV012,Löcknitz,rural area,background,1.2,,,2019
+Mecklenburg-West Pomerania,DEMV019,Güstrow,urban area,background,1.1,,,2019
+Mecklenburg-West Pomerania,DEMV021,Rostock-Warnemünde,urban area,background,1.1,,,2019
+Mecklenburg-West Pomerania,DEMV031,Rostock-Hohe Düne,urban area,industry,1.5,,,2019
+Mecklenburg-West Pomerania,DEMV022,Rostock-Holbeinplatz,urban area,traffic,1.6,,,2019
+Mecklenburg-West Pomerania,DEMV025,Stralsund-Knieperdamm,urban area,traffic,0.97,,,2019
+Mecklenburg-West Pomerania,DEMV058,Neubrandenburg Woldegker Straße,urban area,traffic,0.98,,,2019
+North Rhine-Westphalia,DENW002,Datteln-Hagem,suburban area,background,1.8,,,2019
+North Rhine-Westphalia,DENW024,Essen-Vogelheim,urban area,background,3.9,,,2019
+North Rhine-Westphalia,DENW040,Duisburg-Buchholz,suburban area,background,3,,,2019
+North Rhine-Westphalia,DENW021,Bottrop-Welheim,urban area,industry,7.5,,,2019
+North Rhine-Westphalia,DENW034,Duisburg-Walsum,urban area,industry,8,,,2019
+North Rhine-Westphalia,DENW338,Duisburg-Bruckhausen,urban area,industry,8.3,,,2019
+Rhineland-Palatinate,DERP001,Ludwigshafen-Oppau,urban area,background,1.2,,,2019
+Rhineland-Palatinate,DERP007,Mainz-Mombach,urban area,background,1.2,,,2019
+Rhineland-Palatinate,DERP009,Mainz-Zitadelle,urban area,background,1.1,,,2019
+Rhineland-Palatinate,DERP013,Westpfalz-Waldmohr,rural area,background,1.1,,,2019
+Rhineland-Palatinate,DERP014,Hunsrück-Leisel,rural area,background,1.1,,,2019
+Rhineland-Palatinate,DERP015,Westeifel Wascheid,rural area,background,1,,,2019
+Rhineland-Palatinate,DERP016,Westerwald-Herdorf,rural area,background,1.1,,,2019
+Rhineland-Palatinate,DERP017,Pfälzerwald-Hortenkopf,rural area,background,1.1,,,2019
+Rhineland-Palatinate,DERP019,Kaiserslautern-Rathausplatz,urban area,background,1.2,,,2019
+Rhineland-Palatinate,DERP021,Neuwied-Hafenstraße,urban area,background,1.1,,,2019
+Rhineland-Palatinate,DERP022,Bad Kreuznach-Bosenheimer Straße,urban area,background,1,,,2019
+Rhineland-Palatinate,DERP025,Wörth-Marktplatz,urban area,background,1.2,,,2019
+Rhineland-Palatinate,DERP003,Ludwigshafen-Mundenheim,urban area,industry,1.3,,,2019
+Rhineland-Palatinate,DERP020,Trier-Ostallee,urban area,traffic,1.1,,,2019
+Rhineland-Palatinate,DERP023,Worms-Hagenstraße,urban area,traffic,1.8,,,2019
+Rhineland-Palatinate,DERP024,Koblenz-Friedrich-Ebert-Ring,urban area,traffic,1.2,,,2019
+Saarland,DESL001,Berus,rural area,background,3.2,,,2019
+Saarland,DESL002,Bexbach Schule,suburban area,background,2.1,,,2019
+Saarland,DESL006,Lauterbach,suburban area,background,2.4,,,2019
+Saarland,DESL012,Saarbrücken-City,urban area,background,1.9,,,2019
+Saarland,DESL017,Völklingen-City Stadionstr.,urban area,background,2.5,,,2019
+Saarland,DESL019,Biringen,rural regional,background,1.6,,,2019
+Saarland,DESL003,Dillingen City,urban area,industry,5.5,,,2019
+Saxony,DESN001,Annaberg-Buchholz,urban area,background,1.6,,,2019
+Saxony,DESN024,Klingenthal,urban area,background,1.3,,,2019
+Saxony,DESN045,Zittau-Ost,suburban area,background,2.1,,,2019
+Saxony,DESN052,Zinnwald,rural regional,background,3.3,,,2019
+Saxony,DESN053,Fichtelberg,rural secluded,background,1.6,,,2019
+Saxony,DESN074,Schwartenberg,rural regional,background,3.7,,,2019
+Saxony,DESN092,Dresden-Winckelmannstr.,urban area,background,2.7,,,2019
+Saxony,DESN020,Görlitz,urban area,traffic,1.7,,,2019
+Saxony,DESN025,Leipzig-Mitte,urban area,traffic,1.4,,,2019
+Saxony-Anhalt,DEST011,Wernigerode/Bahnhof,urban area,background,1.7,,,2019
+Saxony-Anhalt,DEST028,Zeitz,urban area,background,1.4,,,2019
+Saxony-Anhalt,DEST039,Brocken,rural secluded,background,1.2,,,2019
+Saxony-Anhalt,DEST077,Magdeburg/West,urban area,background,0.9,,,2019
+Saxony-Anhalt,DEST089,Zartau/Waldstation,rural regional,background,0.82,,,2019
+Saxony-Anhalt,DEST098,Unterharz / Friedrichsbrunn,rural regional,background,0.65,,,2019
+Saxony-Anhalt,DEST015,Bitterfeld/Wolfen,suburban area,industry,1.5,,,2019
+Saxony-Anhalt,DEST090,Leuna,suburban area,industry,2.4,,,2019
+Saxony-Anhalt,DEST108,Weißenfels/Am Krug,urban area,traffic,1,,,2019
+Schleswig-Holstein,DESH035,Brunsbüttel-Cuxhavener Straße,urban area,background,1,,,2019
+Thuringia,DETH009,Gera Friedericistr.,urban area,background,0.99,,,2019
+Thuringia,DETH020,Erfurt Krämpferstr.,urban area,background,0.91,,,2019
+Thuringia,DETH027,Neuhaus,rural secluded,background,1.1,,,2019
+Thuringia,DETH042,Possen,rural secluded,background,0.99,,,2019
+Thuringia,DETH061,Hummelshain,rural secluded,background,1,,,2019
+UBA,DEUB001,Westerland,rural area,background,0.23,,,2019
+UBA,DEUB004,Schauinsland,rural regional,background,0.26,,,2019
+UBA,DEUB005,Waldhof,rural area,background,0.66,,,2019
+UBA,DEUB028,Zingst,rural area,background,0.7,,,2019
+UBA,DEUB029,Schmücke,rural area,background,0.74,,,2019
+UBA,DEUB030,Neuglobsow,rural regional,background,0.77,,,2019
+UBA,DEUB046,Forellenbach,rural secluded,background,0.84,,,2019
+Baden-Württemberg,DEBW004,Eggenstein,rural near town,background,2,0,0,2018
+Baden-Württemberg,DEBW029,Aalen,suburban area,background,1.3,0,0,2018
+Baden-Württemberg,DEBW031,Schwarzwald-Süd,rural regional,background,0.68,0,0,2018
+Baden-Württemberg,DEBW005,Mannheim-Nord,suburban area,industry,2.7,0,0,2018
+Berlin,DEBE066,Berlin Karlshorst,urban area,background,1.1,0,0,2018
+Berlin,DEBE065,Berlin Frankfurter Allee,urban area,traffic,1.3,0,0,2018
+Brandenburg,DEBB021,Potsdam-Zentrum,urban area,background,1.5,0,0,2018
+Brandenburg,DEBB064,Cottbus,urban area,background,1.8,0,0,2018
+Brandenburg,DEBB066,Spreewald,rural regional,background,1.9,0,0,2018
+Brandenburg,DEBB029,Schwedt (Oder),suburban area,industry,2.4,0,0,2018
+Brandenburg,DEBB032,Eisenhüttenstadt,suburban area,industry,2.1,0,0,2018
+Bremen,DEHB001,Bremen-Mitte,urban area,background,1.6,0,0,2018
+Bremen,DEHB002,Bremen-Ost,urban area,background,1.6,0,0,2018
+Bremen,DEHB004,Bremen-Nord,urban area,background,1.5,0,0,2018
+Bremen,DEHB005,Bremerhaven-Hansastraße,urban area,background,1.8,0,0,2018
+Bremen,DEHB012,Bremen-Oslebshausen,urban area,background,1.9,0,0,2018
+Bremen,DEHB013,Bremen-Hasenbüren,rural regional,industry,2.5,0,1,2018
+Hamburg,DEHH008,Hamburg Sternschanze,urban area,background,3.8,0,0,2018
+Hamburg,DEHH059,Hamburg Wilhelmsburg,urban area,background,3.8,0,0,2018
+Hamburg,DEHH079,Hamburg Altona Elbhang,urban area,background,4,0,0,2018
+Hamburg,DEHH081,Hamburg Hafen,urban area,background,4.7,0,0,2018
+Hamburg,DEHH015,Hamburg Veddel,urban area,industry,6.6,0,0,2018
+Hamburg,DEHH016,Hamburg Billbrook,urban area,industry,3.5,0,0,2018
+Hesse,DEHE001,Darmstadt,urban area,background,0.87,0,0,2018
+Hesse,DEHE005,Frankfurt-Höchst,urban area,background,1.2,0,0,2018
+Hesse,DEHE011,Hanau,urban area,background,0.92,0,0,2018
+Hesse,DEHE013,Kassel Mitte,urban area,background,0.95,0,0,2018
+Hesse,DEHE018,Raunheim,urban area,background,1.6,0,0,2018
+Hesse,DEHE020,Wetzlar,urban area,background,1,0,0,2018
+Hesse,DEHE022,Wiesbaden Süd,urban area,background,0.92,0,0,2018
+Hesse,DEHE042,Linden/Leihgestern,rural area,background,0.9,0,0,2018
+Hesse,DEHE045,Michelstadt,urban area,background,0.91,0,0,2018
+Hesse,DEHE051,Wasserkuppe,rural area,background,0.96,0,0,2018
+Hesse,DEHE060,Kellerwald,rural regional,background,0.91,0,0,2018
+Mecklenburg-West Pomerania,DEMV004,Gülzow,rural area,background,1.3,0,0,2018
+Mecklenburg-West Pomerania,DEMV007,Rostock-Stuthof,suburban area,background,1.1,0,0,2018
+Mecklenburg-West Pomerania,DEMV012,Löcknitz,rural area,background,1.3,0,0,2018
+Mecklenburg-West Pomerania,DEMV019,Güstrow,urban area,background,1.2,0,0,2018
+Mecklenburg-West Pomerania,DEMV021,Rostock-Warnemünde,urban area,background,0.99,0,0,2018
+Mecklenburg-West Pomerania,DEMV026,Garz,rural area,background,0.92,0,0,2018
+Mecklenburg-West Pomerania,DEMV031,Rostock-Hohe Düne,urban area,industry,1.2,0,0,2018
+Mecklenburg-West Pomerania,DEMV022,Rostock-Holbeinplatz,urban area,traffic,1.5,0,0,2018
+North Rhine-Westphalia,DENW002,Datteln-Hagem,suburban area,background,1.9,0,0,2018
+North Rhine-Westphalia,DENW024,Essen-Vogelheim,urban area,background,4.1,0,0,2018
+North Rhine-Westphalia,DENW040,Duisburg-Buchholz,suburban area,background,3.6,0,0,2018
+North Rhine-Westphalia,DENW059,Köln-Rodenkirchen,suburban area,background,1.3,0,0,2018
+North Rhine-Westphalia,DENW066,Nettetal-Kaldenkirchen,rural near town,background,1.6,0,0,2018
+North Rhine-Westphalia,DENW081,Borken-Gemen,rural near town,background,1.6,0,0,2018
+North Rhine-Westphalia,DENW021,Bottrop-Welheim,urban area,industry,8.3,0,0,2018
+North Rhine-Westphalia,DENW034,Duisburg-Walsum,urban area,industry,6.2,0,0,2018
+North Rhine-Westphalia,DENW338,Duisburg-Bruckhausen,urban area,industry,8.9,0,0,2018
+Rhineland-Palatinate,DERP001,Ludwigshafen-Oppau,urban area,background,1.3,0,0,2018
+Rhineland-Palatinate,DERP007,Mainz-Mombach,urban area,background,1.2,0,0,2018
+Rhineland-Palatinate,DERP009,Mainz-Zitadelle,urban area,background,1.1,0,0,2018
+Rhineland-Palatinate,DERP013,Westpfalz-Waldmohr,rural area,background,1.1,0,0,2018
+Rhineland-Palatinate,DERP014,Hunsrück-Leisel,rural area,background,1.1,0,0,2018
+Rhineland-Palatinate,DERP015,Westeifel Wascheid,rural area,background,1.1,0,0,2018
+Rhineland-Palatinate,DERP016,Westerwald-Herdorf,rural area,background,1.1,0,0,2018
+Rhineland-Palatinate,DERP017,Pfälzerwald-Hortenkopf,rural area,background,1.2,0,0,2018
+Rhineland-Palatinate,DERP019,Kaiserslautern-Rathausplatz,urban area,background,1.3,0,0,2018
+Rhineland-Palatinate,DERP021,Neuwied-Hafenstraße,urban area,background,1.1,0,0,2018
+Rhineland-Palatinate,DERP022,Bad Kreuznach-Bosenheimer Straße,urban area,background,1.1,0,0,2018
+Rhineland-Palatinate,DERP025,Wörth-Marktplatz,urban area,background,1.2,0,0,2018
+Rhineland-Palatinate,DERP003,Ludwigshafen-Mundenheim,urban area,industry,1.6,0,0,2018
+Rhineland-Palatinate,DERP020,Trier-Ostallee,urban area,traffic,1.1,0,0,2018
+Rhineland-Palatinate,DERP023,Worms-Hagenstraße,urban area,traffic,2.3,0,0,2018
+Rhineland-Palatinate,DERP024,Koblenz-Friedrich-Ebert-Ring,urban area,traffic,1.4,0,0,2018
+Saarland,DESL001,Berus,rural area,background,2.8,0,0,2018
+Saarland,DESL002,Bexbach Schule,suburban area,background,2.2,0,0,2018
+Saarland,DESL006,Lauterbach,suburban area,background,2.7,0,0,2018
+Saarland,DESL010,Saarbrücken-Burbach,urban area,background,2.5,0,0,2018
+Saarland,DESL012,Saarbrücken-City,urban area,background,2.7,0,0,2018
+Saarland,DESL017,Völklingen-City Stadionstr.,urban area,background,2.8,0,0,2018
+Saarland,DESL019,Biringen,rural regional,background,1.9,0,0,2018
+Saarland,DESL003,Dillingen City,urban area,industry,4.9,0,0,2018
+Saxony,DESN001,Annaberg-Buchholz,urban area,background,2.8,0,0,2018
+Saxony,DESN024,Klingenthal,urban area,background,1.7,0,0,2018
+Saxony,DESN045,Zittau-Ost,suburban area,background,2.8,0,0,2018
+Saxony,DESN052,Zinnwald,rural regional,background,3.5,0,0,2018
+Saxony,DESN053,Fichtelberg,rural secluded,background,2.2,0,0,2018
+Saxony,DESN074,Schwartenberg,rural regional,background,5.4,0,0,2018
+Saxony,DESN092,Dresden-Winckelmannstr.,urban area,background,3,0,0,2018
+Saxony,DESN020,Görlitz,urban area,traffic,2.5,0,0,2018
+Saxony,DESN025,Leipzig-Mitte,urban area,traffic,2,0,0,2018
+Saxony-Anhalt,DEST011,Wernigerode/Bahnhof,urban area,background,1.9,0,0,2018
+Saxony-Anhalt,DEST028,Zeitz,urban area,background,2.1,0,0,2018
+Saxony-Anhalt,DEST039,Brocken,rural secluded,background,1.4,0,0,2018
+Saxony-Anhalt,DEST077,Magdeburg/West,urban area,background,1.1,0,0,2018
+Saxony-Anhalt,DEST089,Zartau/Waldstation,rural regional,background,1.5,0,0,2018
+Saxony-Anhalt,DEST098,Unterharz / Friedrichsbrunn,rural regional,background,1.1,0,0,2018
+Saxony-Anhalt,DEST015,Bitterfeld/Wolfen,suburban area,industry,1.8,0,0,2018
+Saxony-Anhalt,DEST090,Leuna,suburban area,industry,2.7,0,0,2018
+Saxony-Anhalt,DEST075,Halle/Merseburger Strasse,urban area,traffic,2,0,0,2018
+Saxony-Anhalt,DEST108,Weißenfels/Am Krug,urban area,traffic,1.2,0,0,2018
+Schleswig-Holstein,DESH008,Bornhöved,rural regional,background,0.95,,,2018
+Schleswig-Holstein,DESH035,Brunsbüttel-Cuxhavener Straße,urban area,background,1.2,0,0,2018
+Thuringia,DETH009,Gera Friedericistr.,urban area,background,1.3,0,0,2018
+Thuringia,DETH020,Erfurt Krämpferstr.,urban area,background,1.1,0,0,2018
+Thuringia,DETH027,Neuhaus,rural secluded,background,1.4,0,0,2018
+Thuringia,DETH042,Possen,rural secluded,background,1.2,0,0,2018
+Thuringia,DETH061,Hummelshain,rural secluded,background,1.1,0,0,2018
+UBA,DEUB001,Westerland,rural area,background,0.32,0,0,2018
+UBA,DEUB004,Schauinsland,rural regional,background,0.5,0,0,2018
+UBA,DEUB005,Waldhof,rural area,background,0.77,0,0,2018
+UBA,DEUB028,Zingst,rural area,background,0.9,0,0,2018
+UBA,DEUB029,Schmücke,rural area,background,0.98,0,0,2018
+UBA,DEUB030,Neuglobsow,rural regional,background,0.96,0,0,2018
+UBA,DEUB046,Forellenbach,rural secluded,background,0.89,0,0,2018
+Baden-Württemberg,DEBW004,Eggenstein,rural near town,background,2.4,0,0,2015
+Baden-Württemberg,DEBW013,Stuttgart-Bad Cannstatt,urban area,background,1.6,0,0,2015
+Baden-Württemberg,DEBW019,Ulm,urban area,background,1.3,0,0,2015
+Baden-Württemberg,DEBW029,Aalen,suburban area,background,1.6,0,0,2015
+Baden-Württemberg,DEBW031,Schwarzwald-Süd,rural regional,background,0.32,0,0,2015
+Baden-Württemberg,DEBW081,Karlsruhe-Nordwest,urban area,background,1.8,0,0,2015
+Baden-Württemberg,DEBW084,Freiburg,urban area,background,1.2,0,0,2015
+Baden-Württemberg,DEBW087,Schwäbische Alb,rural regional,background,0.87,0,0,2015
+Baden-Württemberg,DEBW005,Mannheim-Nord,suburban area,industry,4.5,0,0,2015
+Baden-Württemberg,DEBW022,Kehl,suburban area,industry,2,0,0,2015
+Bavaria,DEBY002,Arzberg/Egerstraße,suburban area,background,2.8,0,0,2015
+Bavaria,DEBY004,Kleinwallstadt/Hofstetter Straße,suburban area,background,2.6,0,0,2015
+Bavaria,DEBY013,Mehring/Sportplatz,rural regional,background,3.9,0,0,2015
+Bavaria,DEBY020,Hof/LfU,suburban area,background,2.8,0,0,2015
+Bavaria,DEBY026,Vohburg a.d. Donau/Alter Wöhrer Weg,suburban area,background,3.7,0,0,2015
+Bavaria,DEBY099,Augsburg/LfU,suburban area,background,2.1,0,0,2015
+Bavaria,DEBY001,Ansbach/Residenzstraße,urban area,traffic,2.5,0,0,2015
+Bavaria,DEBY006,Augsburg/Königsplatz,urban area,traffic,2.4,0,0,2015
+Bavaria,DEBY021,Ingolstadt/Rechbergstraße,urban area,traffic,2.7,0,0,2015
+Bavaria,DEBY028,Kelheim/Regensburger Straße,urban area,traffic,3.6,0,0,2015
+Bavaria,DEBY037,München/Stachus,urban area,traffic,2.4,0,0,2015
+Bavaria,DEBY053,Nürnberg/Bahnhof,urban area,traffic,2.2,0,0,2015
+Bavaria,DEBY063,Regensburg/Rathaus,urban area,traffic,2.5,0,0,2015
+Berlin,DEBE066,Berlin Karlshorst,urban area,background,1.4,0,0,2015
+Berlin,DEBE065,Berlin Frankfurter Allee,urban area,traffic,2.2,0,1,2015
+Brandenburg,DEBB021,Potsdam-Zentrum,urban area,background,1.6,0,0,2015
+Brandenburg,DEBB064,Cottbus,urban area,background,1.8,0,0,2015
+Brandenburg,DEBB066,Spreewald,rural regional,background,1.7,0,0,2015
+Brandenburg,DEBB083,Spremberg,suburban area,background,2.1,0,0,2015
+Brandenburg,DEBB092,Frankfurt (Oder),suburban area,background,1.8,0,0,2015
+Brandenburg,DEBB029,Schwedt (Oder),suburban area,industry,2,0,0,2015
+Brandenburg,DEBB032,Eisenhüttenstadt,suburban area,industry,2.2,0,0,2015
+Bremen,DEHB001,Bremen-Mitte,urban area,background,1.5,0,0,2015
+Bremen,DEHB002,Bremen-Ost,urban area,background,1.3,0,0,2015
+Bremen,DEHB004,Bremen-Nord,urban area,background,2.5,0,0,2015
+Bremen,DEHB005,Bremerhaven-Hansastraße,urban area,background,1.8,0,0,2015
+Bremen,DEHB012,Bremen-Oslebshausen,urban area,background,2.3,0,0,2015
+Bremen,DEHB013,Bremen-Hasenbüren,rural regional,industry,1.5,0,0,2015
+Hamburg,DEHH008,Hamburg Sternschanze,urban area,background,3.7,0,0,2015
+Hamburg,DEHH059,Hamburg Wilhelmsburg,urban area,background,3.4,0,0,2015
+Hamburg,DEHH079,Hamburg Altona Elbhang,urban area,background,4.4,0,0,2015
+Hamburg,DEHH015,Hamburg Veddel,urban area,industry,5.6,0,0,2015
+Hamburg,DEHH016,Hamburg Billbrook,urban area,industry,4.4,0,0,2015
+Hesse,DEHE001,Darmstadt,urban area,background,0.98,0,0,2015
+Hesse,DEHE005,Frankfurt-Höchst,urban area,background,1.8,0,0,2015
+Hesse,DEHE011,Hanau,urban area,background,0.98,0,0,2015
+Hesse,DEHE013,Kassel Mitte,urban area,background,0.98,0,0,2015
+Hesse,DEHE018,Raunheim,urban area,background,1.4,0,0,2015
+Hesse,DEHE020,Wetzlar,urban area,background,1.1,0,0,2015
+Hesse,DEHE022,Wiesbaden Süd,urban area,background,1.1,0,0,2015
+Hesse,DEHE042,Linden/Leihgestern,rural area,background,0.86,0,0,2015
+Hesse,DEHE045,Michelstadt,urban area,background,0.92,0,0,2015
+Hesse,DEHE051,Wasserkuppe,rural area,background,0.95,0,0,2015
+Hesse,DEHE060,Kellerwald,rural regional,background,0.9,0,0,2015
+Mecklenburg-West Pomerania,DEMV004,Gülzow,rural area,background,1,0,0,2015
+Mecklenburg-West Pomerania,DEMV007,Rostock-Stuthof,suburban area,background,1.3,0,0,2015
+Mecklenburg-West Pomerania,DEMV012,Löcknitz,rural area,background,1.2,0,0,2015
+Mecklenburg-West Pomerania,DEMV019,Güstrow,urban area,background,1.2,0,0,2015
+Mecklenburg-West Pomerania,DEMV021,Rostock-Warnemünde,urban area,background,1.4,0,0,2015
+Mecklenburg-West Pomerania,DEMV026,Garz,rural area,background,0.76,0,0,2015
+Mecklenburg-West Pomerania,DEMV031,Rostock-Hohe Düne,urban area,industry,1.7,0,0,2015
+Mecklenburg-West Pomerania,DEMV022,Rostock-Holbeinplatz,urban area,traffic,1.8,0,0,2015
+Lower Saxony,DENI020,Wolfsburg,suburban area,background,1.3,0,0,2015
+Lower Saxony,DENI038,Osnabrück,urban area,background,0.82,0,0,2015
+Lower Saxony,DENI042,Göttingen,suburban area,background,0.46,0,0,2015
+Lower Saxony,DENI043,Emsland,suburban area,background,0.81,0,0,2015
+Lower Saxony,DENI051,Wurmberg,rural area,background,0.63,0,0,2015
+Lower Saxony,DENI058,Ostfries. Inseln,rural area,background,0.43,0,0,2015
+Lower Saxony,DENI070,Salzgitter-Drütte,rural area,industry,2.3,0,0,2015
+North Rhine-Westphalia,DENW002,Datteln-Hagem,suburban area,background,2.4,0,0,2015
+North Rhine-Westphalia,DENW024,Essen-Vogelheim,urban area,background,4.4,0,0,2015
+North Rhine-Westphalia,DENW040,Duisburg-Buchholz,suburban area,background,3.7,0,0,2015
+North Rhine-Westphalia,DENW059,Köln-Rodenkirchen,suburban area,background,1.5,0,0,2015
+North Rhine-Westphalia,DENW066,Nettetal-Kaldenkirchen,rural near town,background,1.6,0,0,2015
+North Rhine-Westphalia,DENW081,Borken-Gemen,rural near town,background,1.7,0,0,2015
+North Rhine-Westphalia,DENW021,Bottrop-Welheim,urban area,industry,10,0,0,2015
+North Rhine-Westphalia,DENW034,Duisburg-Walsum,urban area,industry,7.7,0,0,2015
+North Rhine-Westphalia,DENW338,Duisburg-Bruckhausen,urban area,industry,8.2,0,0,2015
+Rhineland-Palatinate,DERP001,Ludwigshafen-Oppau,urban area,background,1.6,0,0,2015
+Rhineland-Palatinate,DERP007,Mainz-Mombach,urban area,background,1.4,0,0,2015
+Rhineland-Palatinate,DERP009,Mainz-Zitadelle,urban area,background,1.4,0,0,2015
+Rhineland-Palatinate,DERP013,Westpfalz-Waldmohr,rural area,background,1.9,0,0,2015
+Rhineland-Palatinate,DERP014,Hunsrück-Leisel,rural area,background,1.3,0,0,2015
+Rhineland-Palatinate,DERP015,Westeifel Wascheid,rural area,background,1.2,0,0,2015
+Rhineland-Palatinate,DERP016,Westerwald-Herdorf,rural area,background,1.2,0,0,2015
+Rhineland-Palatinate,DERP017,Pfälzerwald-Hortenkopf,rural area,background,1.2,0,0,2015
+Rhineland-Palatinate,DERP019,Kaiserslautern-Rathausplatz,urban area,background,1.6,0,0,2015
+Rhineland-Palatinate,DERP021,Neuwied-Hafenstraße,urban area,background,1.5,0,0,2015
+Rhineland-Palatinate,DERP022,Bad Kreuznach-Bosenheimer Straße,urban area,background,1.4,0,0,2015
+Rhineland-Palatinate,DERP025,Wörth-Marktplatz,urban area,background,1.5,0,0,2015
+Rhineland-Palatinate,DERP003,Ludwigshafen-Mundenheim,urban area,industry,1.7,0,0,2015
+Rhineland-Palatinate,DERP020,Trier-Ostallee,urban area,traffic,1.3,0,0,2015
+Rhineland-Palatinate,DERP023,Worms-Hagenstraße,urban area,traffic,2.3,0,0,2015
+Rhineland-Palatinate,DERP024,Koblenz-Friedrich-Ebert-Ring,urban area,traffic,1.8,0,0,2015
+Saarland,DESL001,Berus,rural area,background,3.5,0,0,2015
+Saarland,DESL002,Bexbach Schule,suburban area,background,3.2,0,0,2015
+Saarland,DESL006,Lauterbach,suburban area,background,3.5,0,0,2015
+Saarland,DESL010,Saarbrücken-Burbach,urban area,background,3.8,0,0,2015
+Saarland,DESL012,Saarbrücken-City,urban area,background,3.3,0,0,2015
+Saarland,DESL017,Völklingen-City Stadionstr.,urban area,background,3.1,0,0,2015
+Saarland,DESL019,Biringen,rural regional,background,3,0,0,2015
+Saarland,DESL003,Dillingen City,urban area,industry,6.5,0,0,2015
+Saxony,DESN024,Klingenthal,urban area,background,1.6,0,0,2015
+Saxony,DESN045,Zittau-Ost,suburban area,background,3.2,0,0,2015
+Saxony,DESN052,Zinnwald,rural regional,background,5.4,0,0,2015
+Saxony,DESN053,Fichtelberg,rural secluded,background,2.1,0,0,2015
+Saxony,DESN074,Schwartenberg,rural regional,background,5.6,0,0,2015
+Saxony,DESN092,Dresden-Winckelmannstr.,urban area,background,3.5,0,0,2015
+Saxony,DESN020,Görlitz,urban area,traffic,2.9,0,0,2015
+Saxony,DESN025,Leipzig-Mitte,urban area,traffic,3.3,0,0,2015
+Saxony-Anhalt,DEST011,Wernigerode/Bahnhof,urban area,background,2.6,0,0,2015
+Saxony-Anhalt,DEST028,Zeitz,urban area,background,2.3,0,0,2015
+Saxony-Anhalt,DEST039,Brocken,rural secluded,background,1.5,0,0,2015
+Saxony-Anhalt,DEST077,Magdeburg/West,urban area,background,1.5,0,0,2015
+Saxony-Anhalt,DEST089,Zartau/Waldstation,rural regional,background,0.89,0,0,2015
+Saxony-Anhalt,DEST098,Unterharz / Friedrichsbrunn,rural regional,background,0.98,0,0,2015
+Saxony-Anhalt,DEST104,Domäne Bobbe,rural area,background,1.6,0,0,2015
+Saxony-Anhalt,DEST015,Bitterfeld/Wolfen,suburban area,industry,2.4,0,0,2015
+Saxony-Anhalt,DEST090,Leuna,suburban area,industry,3.3,0,0,2015
+Saxony-Anhalt,DEST075,Halle/Merseburger Strasse,urban area,traffic,2,0,0,2015
+Saxony-Anhalt,DEST108,Weißenfels/Am Krug,urban area,traffic,1.2,0,0,2015
+Schleswig-Holstein,DESH008,Bornhöved,rural regional,background,1.1,,,2015
+Schleswig-Holstein,DESH035,Brunsbüttel-Cuxhavener Straße,urban area,background,1.3,0,0,2015
+Thuringia,DETH009,Gera Friedericistr.,urban area,background,1.2,0,0,2015
+Thuringia,DETH020,Erfurt Krämpferstr.,urban area,background,1.1,0,0,2015
+Thuringia,DETH027,Neuhaus,rural secluded,background,1.1,0,0,2015
+Thuringia,DETH042,Possen,rural secluded,background,1.1,0,0,2015
+Thuringia,DETH061,Hummelshain,rural secluded,background,1,0,0,2015
+UBA,DEUB001,Westerland,rural area,background,0.28,0,0,2015
+UBA,DEUB004,Schauinsland,rural regional,background,0.46,0,0,2015
+UBA,DEUB005,Waldhof,rural area,background,0.67,0,0,2015
+UBA,DEUB028,Zingst,rural area,background,0.6,0,0,2015
+UBA,DEUB029,Schmücke,rural area,background,0.78,0,0,2015
+UBA,DEUB030,Neuglobsow,rural regional,background,0.8,0,0,2015
+UBA,DEUB046,Forellenbach,rural secluded,background,1.1,0,0,2015
