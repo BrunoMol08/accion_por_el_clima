@@ -1,0 +1,103 @@
+state_measuring_network,Year,NO2
+North Rhine-Westphalia                            ,2015,36.72222222222222
+Saarland                                          ,2015,22
+Lower Saxony                                      ,2015,27.263157894736842
+UBA                                               ,2015,5.142857142857143
+Berlin                                            ,2015,30.625
+Baden-Württemberg                                 ,2015,36.8448275862069
+Hesse                                             ,2015,31.113636363636363
+Brandenburg                                       ,2015,12.357142857142858
+Rhineland-Palatinate                              ,2015,26.51851851851852
+Saxony-Anhalt                                     ,2015,19.181818181818183
+Saxony                                            ,2015,20.347826086956523
+Schleswig-Holstein                                ,2015,30.90909090909091
+Bremen                                            ,2015,26.5
+Mecklenburg-West Pomerania                        ,2015,15
+Thuringia                                         ,2015,24.310344827586206
+Bavaria                                           ,2015,27.066666666666666
+Hamburg                                           ,2015,31.125
+Schleswig-Holstein                                ,2016,31.818181818181817
+Thuringia                                         ,2016,22.444444444444443
+Saxony                                            ,2016,20.347826086956523
+Hesse                                             ,2016,30.755555555555556
+North Rhine-Westphalia                            ,2016,37.45161290322581
+Lower Saxony                                      ,2016,26.783783783783782
+Brandenburg                                       ,2016,12.428571428571429
+Hamburg                                           ,2016,31.75
+Berlin                                            ,2016,30.3125
+Bremen                                            ,2016,25.25
+Saxony-Anhalt                                     ,2016,19.52173913043478
+Saarland                                          ,2016,21.77777777777778
+Mecklenburg-West Pomerania                        ,2016,15.733333333333333
+UBA                                               ,2016,4.714285714285714
+Bavaria                                           ,2016,25.955555555555556
+Baden-Württemberg                                 ,2016,35.91935483870968
+Rhineland-Palatinate                              ,2016,25.14814814814815
+Bavaria                                           ,2017,25.533333333333335
+Hesse                                             ,2017,30.659574468085108
+Saxony                                            ,2017,19.75
+Thuringia                                         ,2017,21.107142857142858
+Saarland                                          ,2017,20.75
+Lower Saxony                                      ,2017,24.105263157894736
+Brandenburg                                       ,2017,11
+Saxony-Anhalt                                     ,2017,18
+Schleswig-Holstein                                ,2017,28.5
+UBA                                               ,2017,4.333333333333333
+Rhineland-Palatinate                              ,2017,24.14814814814815
+Hamburg                                           ,2017,30.2
+Bremen                                            ,2017,24.125
+Berlin                                            ,2017,29
+Baden-Württemberg                                 ,2017,33.98529411764706
+Mecklenburg-West Pomerania                        ,2017,14.071428571428571
+North Rhine-Westphalia                            ,2017,36.285714285714285
+Brandenburg                                       ,2018,11.571428571428571
+Schleswig-Holstein                                ,2018,25.583333333333332
+Hamburg                                           ,2018,29.6
+UBA                                               ,2018,4.285714285714286
+Berlin                                            ,2018,34.791666666666664
+Lower Saxony                                      ,2018,24.75
+Hesse                                             ,2018,31.24074074074074
+Baden-Württemberg                                 ,2018,32.53125
+North Rhine-Westphalia                            ,2018,35.096774193548384
+Saarland                                          ,2018,22.333333333333332
+Mecklenburg-West Pomerania                        ,2018,14.928571428571429
+Saxony                                            ,2018,20.166666666666668
+Bremen                                            ,2018,24
+Bavaria                                           ,2018,24.066666666666666
+Rhineland-Palatinate                              ,2018,23.555555555555557
+Thuringia                                         ,2018,21.11111111111111
+Saxony-Anhalt                                     ,2018,17.652173913043477
+Saxony                                            ,2019,17.791666666666668
+Berlin                                            ,2019,31.208333333333332
+Schleswig-Holstein                                ,2019,24.857142857142858
+Rhineland-Palatinate                              ,2019,21.51851851851852
+Mecklenburg-West Pomerania                        ,2019,14.133333333333333
+Bavaria                                           ,2019,22.130434782608695
+Saarland                                          ,2019,20.444444444444443
+Hamburg                                           ,2019,27.4
+Thuringia                                         ,2019,18.857142857142858
+Saxony-Anhalt                                     ,2019,15.727272727272727
+UBA                                               ,2019,4.142857142857143
+Baden-Württemberg                                 ,2019,28.724137931034484
+Hesse                                             ,2019,29.2
+Brandenburg                                       ,2019,10.857142857142858
+Lower Saxony                                      ,2019,21.944444444444443
+North Rhine-Westphalia                            ,2019,31.391666666666666
+Bremen                                            ,2019,22.5
+Bavaria                                           ,2020,19.17391304347826
+Rhineland-Palatinate                              ,2020,18.296296296296298
+Saxony-Anhalt                                     ,2020,13.772727272727273
+Bremen                                            ,2020,19.5
+Baden-Württemberg                                 ,2020,24.557377049180328
+UBA                                               ,2020,3.142857142857143
+Mecklenburg-West Pomerania                        ,2020,12.214285714285714
+Hesse                                             ,2020,24.140350877192983
+Brandenburg                                       ,2020,9.933333333333334
+Schleswig-Holstein                                ,2020,21.071428571428573
+North Rhine-Westphalia                            ,2020,26.572649572649574
+Saxony                                            ,2020,15.208333333333334
+Saarland                                          ,2020,17.444444444444443
+Thuringia                                         ,2020,16.24137931034483
+Hamburg                                           ,2020,25.5
+Berlin                                            ,2020,25.916666666666668
+Lower Saxony                                      ,2020,18
